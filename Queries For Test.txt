@@ -1,0 +1,22 @@
+https://onecompiler.com/mysql
+OneCompiler's MySQL online Workbench helps you to write, compile, debug, run and test MySQL queries online.
+onecompiler.com
+MySQL Online Editor
+OneCompiler's MySQL online Workbench helps you to write, compile, debug, run and test MySQL queries online.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-- Write a query to calculate the average age of employees in each department.
+-- Write a query to find the department with the highest number of employees whose age is
+above 40.
+-- Write a query to retrieve the count of employees who have in joined in last 100 days.
+-- Write a query to update the joining date of all employees in the HR department to the
+yesterday.
+-- Write a query to retrieve the count of employees who have in joined in last 100 days.
+MySQL Online Editor
+OneCompiler's MySQL online Workbench helps you to write, compile, debug, run and test MySQL queries online.
+ 
